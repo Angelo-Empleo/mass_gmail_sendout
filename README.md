@@ -10,3 +10,6 @@ This is done through the following steps: Login to Gmail > Settings (top right) 
 **Download Chrome Webdriver**
 
 Install Chrome web driver before running: https://chromedriver.chromium.org/downloads
+
+# GIF
+![Program_Example](https://gifyu.com/image/X3AQ)
