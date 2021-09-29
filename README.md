@@ -13,4 +13,5 @@ Install Chrome web driver before running: https://chromedriver.chromium.org/down
 
 # GIF
 40-second GIF showing what the program should look like.
+
 ![Program_Example](https://media.giphy.com/media/AH1zTRxxiuMrJ4fcTd/giphy.gif?cid=790b76113d655ca9aa583ba5d4ea8ea76a1d20725f5f9597&rid=giphy.gif&ct=g)
